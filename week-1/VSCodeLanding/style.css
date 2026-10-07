@@ -1,0 +1,31 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+.sec{
+    color: grey;
+    padding-left: 20px;
+}
+.div1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+}
+.div2{
+    display: flex;
+    justify-content: space-between;
+}
+.down{
+    color: white;
+    background-color: rgb(21, 129, 212);
+    width: 100px;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    height: 15px;
+    margin-left:5px;
+    border-radius: 2px;
+}
